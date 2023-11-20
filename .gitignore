@@ -1,0 +1,23 @@
+# User-specific files
+SaveData/
+drivers/
+ogTRACKS/
+HOMETOWN (Autumn Valley)/
+~EXPORTED TEXTURES (old)/
+~IMPORTED TEXTURES (new)/
+*.old
+*.original
+*.bak
+*.og
+*.prev
+*.previous
+*.previous(vmv5)
+*.previous (xj220 gumball)
+*.previous (limo)
+*.previous (Cien)
+*.previousNewer
+*.replacedOGinVivWithThis
+*.1stUp
+*.2ndUp
+*.3rdUp
+*.base
